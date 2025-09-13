@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\registery\\rulesregistery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:registery\\rulesregistery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\rules\\concreterules\\disallowrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:rules\\concreterules\\disallowrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\rules\\concreterules\\maxamountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:rules\\concreterules\\maxamountrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\rules\\itriprule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:rules\\itriprule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\rules\\iexpenserule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:rules\\iexpenserule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\rules\\violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:rules\\violation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|d:\\shiva krishna\\systemdesign\\lowleveldesign\\solid_assignment_1\\vs\\expenserules\\models\\expensetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB721F2-D722-4D63-82CC-0317D436315C}|ExpenseRules.csproj|solutionrelative:models\\expensetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:54:29.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RulesRegistery.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Registery\\RulesRegistery.cs",
+              "RelativeDocumentMoniker": "Registery\\RulesRegistery.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Registery\\RulesRegistery.cs",
+              "RelativeToolTip": "Registery\\RulesRegistery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:15:44.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisAllowRule.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\ConcreteRules\\DisAllowRule.cs",
+              "RelativeDocumentMoniker": "Rules\\ConcreteRules\\DisAllowRule.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\ConcreteRules\\DisAllowRule.cs",
+              "RelativeToolTip": "Rules\\ConcreteRules\\DisAllowRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:13:11.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaxAmountRule.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\ConcreteRules\\MaxAmountRule.cs",
+              "RelativeDocumentMoniker": "Rules\\ConcreteRules\\MaxAmountRule.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\ConcreteRules\\MaxAmountRule.cs",
+              "RelativeToolTip": "Rules\\ConcreteRules\\MaxAmountRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:10:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITripRule.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\ITripRule.cs",
+              "RelativeDocumentMoniker": "Rules\\ITripRule.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\ITripRule.cs",
+              "RelativeToolTip": "Rules\\ITripRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:09:20.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Violation.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\Violation.cs",
+              "RelativeDocumentMoniker": "Rules\\Violation.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\Violation.cs",
+              "RelativeToolTip": "Rules\\Violation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:05:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExpenseRule.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\IExpenseRule.cs",
+              "RelativeDocumentMoniker": "Rules\\IExpenseRule.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Rules\\IExpenseRule.cs",
+              "RelativeToolTip": "Rules\\IExpenseRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:04:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpenseType.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Models\\ExpenseType.cs",
+              "RelativeDocumentMoniker": "Models\\ExpenseType.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Models\\ExpenseType.cs",
+              "RelativeToolTip": "Models\\ExpenseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:58:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T08:57:14.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

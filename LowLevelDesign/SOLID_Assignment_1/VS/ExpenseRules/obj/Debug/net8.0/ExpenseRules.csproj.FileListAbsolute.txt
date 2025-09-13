@@ -1,0 +1,15 @@
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\bin\Debug\net8.0\ExpenseRules.exe
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\bin\Debug\net8.0\ExpenseRules.deps.json
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\bin\Debug\net8.0\ExpenseRules.runtimeconfig.json
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\bin\Debug\net8.0\ExpenseRules.dll
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\bin\Debug\net8.0\ExpenseRules.pdb
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.AssemblyInfoInputs.cache
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.AssemblyInfo.cs
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.csproj.CoreCompileInputs.cache
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.sourcelink.json
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.dll
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\refint\ExpenseRules.dll
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.pdb
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ExpenseRules.genruntimeconfig.cache
+D:\SHIVA KRISHNA\SystemDesign\LowLevelDesign\SOLID_Assignment_1\VS\ExpenseRules\obj\Debug\net8.0\ref\ExpenseRules.dll
