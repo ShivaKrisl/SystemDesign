@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SHIVA KRISHNA\\.nuget\\packages\\": {},
+    "C:\\Users\\sbeeraboina\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\ExpenseRules.csproj",
+      "projectUniqueName": "C:\\MLearning\\SystemDesign\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\ExpenseRules.csproj",
       "projectName": "ExpenseRules",
-      "projectPath": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\ExpenseRules.csproj",
-      "packagesPath": "C:\\Users\\SHIVA KRISHNA\\.nuget\\packages\\",
-      "outputPath": "D:\\SHIVA KRISHNA\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\obj\\",
+      "projectPath": "C:\\MLearning\\SystemDesign\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\ExpenseRules.csproj",
+      "packagesPath": "C:\\Users\\sbeeraboina\\.nuget\\packages\\",
+      "outputPath": "C:\\MLearning\\SystemDesign\\SystemDesign\\LowLevelDesign\\SOLID_Assignment_1\\VS\\ExpenseRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SHIVA KRISHNA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sbeeraboina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
