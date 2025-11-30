@@ -104,3 +104,51 @@ SELECT Posts.postid, Posts.content, COUNT(Likes.likeid) AS like_count
 FROM Posts
 LEFT JOIN Likes ON Posts.postid = Likes.content_id AND Likes.content_type = 'POST'
 GROUP BY Posts.postid;
+
+
+-- Transactions
+
+Create table Transactions(
+   id INT PRIMARY KEY AUTO_INCREMENT,
+   holder_name VARCHAR(100) NOT NULL,
+    amount DECIMAL(10,2) NOT NULL
+);
+
+INSERT INTO Transactions(holder_name, amount) VALUES
+('Alice', 1000.00),
+('Bob', 2000.00);
+
+-- Transfer function
+DELIMITER //  -- Change delimiter to // why? because ; is used inside procedure
+CREATE PROCEDURE TransferFunds(
+    IN from_holder VARCHAR(100),
+    IN to_holder VARCHAR(100),
+    IN transfer_amount DECIMAL(10,2)
+)
+BEGIN
+    DECLARE from_balance DECIMAL(10,2);
+    DECLARE to_balance DECIMAL(10,2);
+
+    START TRANSACTION;
+
+    -- Check balance of sender
+    SELECT amount INTO from_balance FROM Transactions WHERE holder_name = from_holder FOR UPDATE;
+    IF from_balance < transfer_amount THEN
+        ROLLBACK;
+        SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Insufficient funds';
+    END IF;
+
+    -- Deduct amount from sender
+    UPDATE Transactions SET amount = amount - transfer_amount WHERE holder_name = from_holder;
+
+    -- Add amount to receiver
+    UPDATE Transactions SET amount = amount + transfer_amount WHERE holder_name = to_holder;
+
+    COMMIT;
+END // -- delimiter back to ;
+DELIMITER ;
+
+-- Test transfer
+CALL TransferFunds('Bob', 'Alice', 300.00);
+
+SELECT * FROM Transactions;
