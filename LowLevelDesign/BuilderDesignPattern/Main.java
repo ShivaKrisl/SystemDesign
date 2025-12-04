@@ -9,6 +9,6 @@ public class Main {
                     .LastName("Ksy")
                     .Password("test@12345")
                     .Build();
-        
+        System.out.println(user.toString());
     }
 }

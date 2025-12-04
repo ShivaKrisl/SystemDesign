@@ -7,7 +7,13 @@ public class User{
     private String email;
     private String password;
 
-    private User(Builder builder){} // creates user object from builder
+    private User(Builder builder){
+        this.firstName = builder.firstName;
+        this.lastName = builder.lastName;
+        this.age = builder.age;
+        this.email = builder.email;
+        this.password = builder.password;
+    } // creates user object from builder
 
     public static class Builder{
         private String firstName;
