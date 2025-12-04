@@ -147,16 +147,24 @@ public class Product{
 
         // Build method to construct the final Product object
         Product build(){
+            validateRequiredFields();
             validateBusinessRules();
             return new Product(this);
         }
 
         private void validateBusinessRules(){
             // We already have written validations for each setter but still you can add extensive validations here
-
             if (!segments.isEmpty()) {
                 validateSegments();
             }
+        }
+
+        private void validateRequiredFields() {
+            if(travelerName == null) throw new IllegalStateException("Traveler name is required");
+            if(startDate == null) throw new IllegalStateException("Start date is required");  
+            if(endDate == null) throw new IllegalStateException("End date is required");
+            if(origin == null) throw new IllegalStateException("Origin is required");
+            if(destination == null) throw new IllegalStateException("Destination is required");
         }
 
         private void validateSegments(){
