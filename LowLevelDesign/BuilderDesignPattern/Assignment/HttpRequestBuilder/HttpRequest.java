@@ -74,6 +74,29 @@ public class HttpRequest{
             return this;
         }
 
+        // convience methods
+        Builder get(String url){
+            if(url == null || (!url.startsWith("http://") && !url.startsWith("https://"))) {
+                throw new IllegalArgumentException("Invalid URL: " + url);
+            }
+            this.absoleteUrl = url;
+            this.method = RequestMethodsEnum.GET;
+            return this;
+        }
+
+        Builder post(String url, String body){
+            if(url == null || (!url.startsWith("http://") && !url.startsWith("https://"))) {
+                throw new IllegalArgumentException("Invalid URL: " + url);
+            }
+            if(body == null) {
+                throw new IllegalArgumentException("Body cannot be null for POST request.");
+            }
+            this.absoleteUrl = url;
+            this.method = RequestMethodsEnum.POST;
+            this.body = new String(body); // Defensive copy
+            return this;
+        }
+
         HttpRequest build(){
             // validate Required fileds
             validateRequiredFields();

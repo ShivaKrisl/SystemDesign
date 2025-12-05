@@ -16,5 +16,10 @@ public class Main {
                 .setAbsoleteUrl("https://www.example.com")
                 .build();
         System.out.println("Request created successfully -> " + getRequest.toString());
+
+        // Convience method to create a GET request
+        HttpRequest simpleGetRequest = new HttpRequest.Builder().get("https://www.simple.com").build();
+        System.out.println("Request created successfully -> " + simpleGetRequest.toString());
+        
     }
 }
